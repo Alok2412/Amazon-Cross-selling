@@ -28,5 +28,5 @@ method which is widely used method for Recommendation Systems.
 
 # References:
 
-References are properly cited in the report.
+References are properly cited in the report. (19250990_Alok_Kumar_Singh_MSc_Data_Science_And_Analytics_Thesis.pdf)
 
